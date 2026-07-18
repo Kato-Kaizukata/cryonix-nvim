@@ -11,7 +11,7 @@ return {
     tab_selected    = { fg = colors.blue_normal },
 
     close_button         = { bg = colors.foreground },
-    close_button_visible = { bg = colors.foreground },
+    close_button_visible = { bg = colors.background },
 
     separator              = { bg = colors.foreground, fg = colors.foreground },
     separator_selected     = { bg = colors.foreground, fg = colors.foreground },
